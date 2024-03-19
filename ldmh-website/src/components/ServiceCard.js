@@ -1,4 +1,5 @@
 import React from 'react'
+import './ServiceCard.css';
 
 function ServiceCard({ categoryData }) {
   return (

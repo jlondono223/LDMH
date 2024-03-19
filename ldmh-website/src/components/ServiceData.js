@@ -1,18 +1,17 @@
 const servicesData = [
     {
       category: "HAIRCUT/STYLING",
-      image: "img-4.jpg",
+      image: "hair-style.jpg",
       services: [
         { name: "Blow Dry / Styling", price: "$50+" },
         { name: "Blow Dry / Styling with Extensions", price: "$65+" },
         { name: "Haircut", price: "$65" },
         { name: "Event Styling", price: "$85" },
-        // More services
       ],
     },
     {
         category: "COLOR",
-        image: "img-3.jpg",
+        image: "hair-color.jpeg",
         services: [
           { name: "Gloss", price: "$75+" },
           { name: "Single Process", price: "$75+" },
@@ -25,7 +24,7 @@ const servicesData = [
       },
       {
         category: "EXTENSIONS",
-        image: "img-5.jpg",
+        image: "extensions.jpeg",
         services: [
           { name: "K-tip Extension Installation", price: "$150/pack" },
           { name: "Tape-in Extension Installation", price: "$150/pack" },
@@ -34,7 +33,7 @@ const servicesData = [
       },
       {
         category: "TREATMENT",
-        image: "img-6.jpg",
+        image: "hair-rejuv.jpg",
         services: [
           { name: "Hair Rejuvenation Treatment", price: "$100+" },
           { name: "KERASILK Treatment", price: "$350+" }
