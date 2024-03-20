@@ -24,8 +24,6 @@ function Cards() {
                 </ul>
             </div>
         </div>
-
-      
     </div>
   )
 }
