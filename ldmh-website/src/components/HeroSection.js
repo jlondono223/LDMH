@@ -8,7 +8,7 @@ function HeroSection() {
     <div className='hero-container'>
         <video src='/videos/blonde-hair-1.mp4' autoPlay loop muted />
         <h1>laudidmyhair</h1>
-        <p>Elevating your hair aspirations from dreams to dazzling realities!</p>
+        <p>Life is more beautiful when you meet the right hairdresser</p>
         <div className='hero-btns'>
             <Button className='btns' 
             buttonStyle='btn--outline' 
